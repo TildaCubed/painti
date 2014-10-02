@@ -1,0 +1,6 @@
+X,Y: X,Y positions of cursor
+Pic0: Save file
+A,B: X,Y positions of first point for line draws
+M: Line draw flag
+F: Color changer flag
+Theta: For( variable
